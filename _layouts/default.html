@@ -7,7 +7,7 @@
 
     <link rel="icon" href="{{ site.baseurl }}/{{ site.favicon }}">
 
-    <title>{{ page.title }} | {{site.name}}</title>
+    <title>{{ page.title }} | {{site.title}}</title>
 
     {% if page.description %}
     <meta name="description" content="{{ page.description }}">{% endif %}
@@ -49,9 +49,9 @@
         <div class="container pr-0">
 
             <!-- Begin Logo -->
-            <a class="navbar-brand" href="{{ site.baseurl }}/">
-                <img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{ site.name }}">
-            </a>
+            <!-- <a class="navbar-brand" href="{{ site.baseurl }}/">
+                <img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{ site.title }}">
+            </a> -->
             <!-- End Logo -->
 
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMediumish" aria-controls="navbarSupportedContent"
@@ -83,7 +83,7 @@
                         <a target="_blank" class="nav-link" href="http://call.hugomagalhaes.com">Schedule a call</a>
                     </li>
 
-                    <li class="nav-item">
+                    <!-- <li class="nav-item">
                         <a target="_blank" class="nav-link" href="https://www.facebook.com/wowthemesnet/">
                             <i class="fab fa-facebook-f"></i>
                         </a>
@@ -93,7 +93,7 @@
                         <a target="_blank" class="nav-link" href="https://twitter.com/wowthemesnet">
                             <i class="fab fa-twitter"></i>
                         </a>
-                    </li>
+                    </li> -->
 
                 </ul>
 
@@ -111,12 +111,12 @@
 
             <!-- Site Title
 ================================================== -->
-            <div class="mainheading">
-                <h1 class="sitetitle">{{ site.name }}</h1>
+            <!-- <div class="mainheading">
+                <h1 class="sitetitle">{{ site.title }}</h1>
                 <p class="lead">
                     {{ site.description }}
                 </p>
-            </div>
+            </div> -->
 
 
 
@@ -172,7 +172,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-6 col-sm-6 text-center text-lg-left">
-                        Copyright © {{ site.time | date: "%Y" }} {{ site.name }}
+                        Copyright © {{ site.time | date: "%Y" }} {{ site.title }}
                     </div>
                     <div class="col-md-6 col-sm-6 text-center text-lg-right">
                         <a href="http://www.hugomagalhaes.com">www.hugomagalhaes.com</a>

@@ -1,13 +1,13 @@
 # Site
-name: "Hugo Nogueira"
-description: "Senior full stack developer. React, React Native and Node.js enthusiast. Principal front-end and Lead engineer @ infinitec.solutions. Berlin, DE"
+title: "Hugo Nogueira"
+description: "Lead front-end engineer and agile manager. React, React Native and Node.js enthusiast. Principal front-end and Lead engineer @ <a href='http://infinitec.solutions'>Infinitec Solutions</a>. Berlin, Germany"
 meta_description: "Hugo Nogueira, Software Engineer, Lead Front-end engineer, Senior ReactJs developer"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.png'
 baseurl: 
-google_analytics: 'UA-46278016-1'
-disqus: 'demowebsite'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+google_analytics: 'UA-16818992-1'
+disqus: 'hugomagalhes'
+# mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
 # Authors
 authors:
@@ -16,9 +16,9 @@ authors:
     display_name: Hugo
     gravatar: 86d69b8300d46636769c0bf2c133796d
     email: hugomn@gmail.com
-    web: https://www.hugomagalhaes.com
+    web: http://www.hugomagalhaes.com
     twitter: https://twitter.com/hugomn
-    description: "Senior full stack developer. React, React Native and Node.js enthusiast. Principal front-end and Lead engineer @ infinitec.solutions. Berlin, DE"
+    description: "React, React Native and Node.js enthusiast. Principal front-end and Lead engineer @ infinitec.solutions. Berlin, DE"
 
 # Plugins
 plugins: 
