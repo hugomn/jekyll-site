@@ -2,8 +2,9 @@
 layout: post
 title:  "My personal mission statement"
 author: hugo
-categories: [ Jekyll, tutorial ]
+categories: [ personal ]
 image: assets/images/16.jpg
+featured: true
 ---
 
 After reading the book “The 7 Habits of Highly Successful People”, written by S. Covey, I understood the real importance of having a clear vision of my personal mission, as a way to always seek to understand if my daily attitudes and achievements are in agreement with my long-term goals. And it serves as a guide so that all my steps, even if the most daily, are in accordance with what I want in the future. Here is my personal mission statement:

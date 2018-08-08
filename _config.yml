@@ -1,9 +1,9 @@
 # Site
-name: "hugomagalhaes.com"
-description: "Hugo Magalhaes"
-meta_description: "Jekyll template, Medium styled, free for bloggers."
+name: "Hugo Nogueira"
+description: "Senior full stack developer. React, React Native and Node.js enthusiast. Principal front-end and Lead engineer @ infinitec.solutions. Berlin, DE"
+meta_description: "Hugo Nogueira, Software Engineer, Lead Front-end engineer, Senior ReactJs developer"
 logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.png'
 baseurl: 
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
@@ -14,27 +14,11 @@ authors:
   hugo:
     name: Hugo
     display_name: Hugo
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    gravatar: 86d69b8300d46636769c0bf2c133796d
     email: hugomn@gmail.com
     web: https://www.hugomagalhaes.com
     twitter: https://twitter.com/hugomn
     description: "Senior full stack developer. React, React Native and Node.js enthusiast. Principal front-end and Lead engineer @ infinitec.solutions. Berlin, DE"
-  sal:
-    name: Sal
-    display_name: Sal
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-  john:
-    name: John
-    display_name: John
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
 
 # Plugins
 plugins: 
