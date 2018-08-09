@@ -3,7 +3,7 @@ layout: post
 title:  "My personal mission statement"
 author: hugo
 categories: [ personal ]
-image: assets/images/16.jpg
+image: assets/images/posts/20180801.jpg
 featured: true
 ---
 
