@@ -13,10 +13,10 @@ disqus: 'hugomagalhes'
 authors:
   hugo:
     name: Hugo
-    display_name: Hugo
+    display_name: Hugo Nogueira
     gravatar: 86d69b8300d46636769c0bf2c133796d
     email: hugomn@gmail.com
-    web: http://www.hugomagalhaes.com
+    web: https://www.hugomagalhaes.com
     twitter: https://twitter.com/hugomn
     description: "React, React Native and Node.js enthusiast. Principal front-end and Lead engineer @ infinitec.solutions. Berlin, DE"
 
