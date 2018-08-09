@@ -7,6 +7,7 @@ favicon: 'assets/images/favicon.png'
 baseurl: 
 google_analytics: 'UA-16818992-1'
 disqus: 'hugomagalhes'
+permalink: /blog/:title
 # mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
 # Authors
@@ -24,6 +25,7 @@ authors:
 plugins: 
   - jekyll-paginate
   - jekyll-archives
+  - jekyll-category-pages
     
 # Archives
 jekyll-archives:
@@ -40,3 +42,7 @@ paginate_path: /page:num/
 # Other
 markdown: kramdown
 highlighter: rouge
+
+# Categories
+category_path: "category" 
+category_layout: "category_index.html"
