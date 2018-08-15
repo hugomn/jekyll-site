@@ -27,6 +27,7 @@ plugins:
   - jekyll-paginate
   - jekyll-archives
   - jekyll-category-pages
+  - jekyll-seo-tag
     
 # Archives
 jekyll-archives:
