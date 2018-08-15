@@ -1,6 +1,6 @@
 # Site
 title: "Hugo Nogueira"
-description: "Lead front-end engineer and agile manager. React, React Native and Node.js enthusiast. Principal front-end and Lead engineer @ <a href='http://infinitec.solutions'>Infinitec Solutions</a>. Berlin, Germany"
+description: "Lead front-end engineer and agile manager. React, and Node.js enthusiast. <br/> Principal front-end and Lead engineer @ <a href='http://infinitec.solutions'>Infinitec Solutions</a>. Berlin, Germany"
 meta_description: "Hugo Nogueira, Software Engineer, Lead Front-end engineer, Senior ReactJs developer"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.png'
@@ -14,13 +14,13 @@ exclude: ["README.md", "Gemfile", "Gemfile.lock", "node_modules", "package.json"
 # Authors
 authors:
   hugo:
-    name: Hugo
+    name: Hugo Nogueira
     display_name: Hugo Nogueira
     gravatar: 86d69b8300d46636769c0bf2c133796d
     email: hugomn@gmail.com
     web: https://www.hugomagalhaes.com
     twitter: https://twitter.com/hugomn
-    description: "React, React Native and Node.js enthusiast. Principal front-end and Lead engineer @ infinitec.solutions. Berlin, DE"
+    description: "Lead front-end engineer and agile manager. React, and Node.js enthusiast. <br/> Principal front-end and Lead engineer @ <a href='http://infinitec.solutions'>Infinitec Solutions</a>. Berlin, Germany"
 
 # Plugins
 plugins: 
