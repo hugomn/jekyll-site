@@ -28,6 +28,7 @@ plugins:
   - jekyll-archives
   - jekyll-category-pages
   - jekyll-seo-tag
+  - jekyll-polyglot
     
 # Archives
 jekyll-archives:
@@ -48,3 +49,9 @@ highlighter: rouge
 # Categories
 category_path: "category" 
 category_layout: "category_index.html"
+
+# i18n
+languages: ["en", "pt"]
+default_lang: "en"
+exclude_from_localization: ["javascript", "images", "css"]
+parallel_localization: true
