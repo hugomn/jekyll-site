@@ -1,12 +1,12 @@
 ---
 layout: page
-title: About
+title: Sobre
 comments: false
 permalink: /about
-lang: en
+lang: pt
 ---
 
-<p>Hello, it&rsquo;s <strong>Hugo</strong> here.</p>
+<p>Olá!</p>
 <p>I&rsquo;m a software engineer with 12 years of experience. I&rsquo;ve started my career when I was <strong>12</strong>, playing around with HTML, CSS, and JavaScript, creating small websites for companies in my hometown in the country-side of Brazil. Soon, I fell in love with dynamic&nbsp;languages like PHP. I also had a crush with <strong>graphic design</strong>.</p>
 <p>In 2004 I went to a <strong>technical</strong> school where I learned hardware and programming languages like Delphi and C++. After that, I studied 4 years of <strong>Computer Science</strong>, where I could improve my skills with other languages like Java, #Net and mainly web-related technologies.&nbsp;</p>
 <p>In my professional career, I spent 6 years working for big companies like <a href="https://twitter.com/Accenture" target="_blank">Accenture</a>, <a href="https://www.sydle.com" target="_blank">Sydle</a>, <a href="https://www.avenuecode.com/" target="_blank">Avenue Code</a>, and after that, I founded my own web agency, called Verticis. After 2 years, I&rsquo;ve created my first <strong>startup</strong>, called <a href="https://meuingresso.com" target="_blank">meuingresso.com</a>, that is today one of the biggest ticket-selling platforms in Brazil. During that time I gained experience and passion for <strong>managing people</strong> and <strong>leading tech teams</strong>.</p>
