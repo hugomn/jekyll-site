@@ -4,7 +4,7 @@ title:  "Declaração de missão pessoal"
 author: hugo
 categories: [ personal ]
 image: assets/images/posts/20180801.jpg
-featured: true
+featured: false
 lang: pt
 ---
 
