@@ -1,6 +1,6 @@
 # Site
 title: "Hugo Nogueira"
-description: "Lead front-end engineer and agile manager. React, and Node.js enthusiast. <br/> Principal front-end and Lead engineer @ <a href='http://infinitec.solutions'>Infinitec Solutions</a>. Berlin, Germany"
+description: "Senior software engineer and agile manager. React, and Node.js enthusiast. <br/> Engineering Lead @ <a href='https://www.bcgdv.com'>BCG Digital Ventures</a>. Berlin, Germany"
 meta_description: "Hugo Nogueira, Software Engineer, Lead Front-end engineer, Senior ReactJs developer"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.png'
@@ -20,7 +20,7 @@ authors:
     email: hugomn@gmail.com
     web: https://www.hugomagalhaes.com
     twitter: https://twitter.com/hugomn
-    description: "Lead front-end engineer and agile manager. React, and Node.js enthusiast. <br/> Principal front-end and Lead engineer @ <a href='http://infinitec.solutions'>Infinitec Solutions</a>. Berlin, Germany"
+    description: "Senior software engineer and agile manager. React, and Node.js enthusiast. <br/> Engineering Lead @ <a href='https://www.bcgdv.com'>BCG Digital Ventures</a>. Berlin, Germany"
 
 # Plugins
 plugins: 
