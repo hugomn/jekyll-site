@@ -1,6 +1,7 @@
 # Site
 title: "Hugo Nogueira"
 description: "Senior software engineer and agile manager. React, and Node.js enthusiast. <br/> Engineering Lead @ <a href='https://www.bcgdv.com'>BCG Digital Ventures</a>. Berlin, Germany"
+url: https://www.hugomagalhaes.com
 meta_description: "Hugo Nogueira, Software Engineer, Lead Front-end engineer, Senior ReactJs developer"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.png'
@@ -9,11 +10,20 @@ google_analytics: 'UA-16818992-1'
 disqus: 'hugomagalhes'
 permalink: /blog/:title
 exclude: ["README.md", "Gemfile", "Gemfile.lock", "node_modules", "package.json", "package-lock.json"]
-# mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+social:
+  name: Hugo Nogueira
+  links:
+    - https://twitter.com/hugomn/
+    - https://www.facebook.com/helloitshugo
+    - https://www.instagram.com/hugomn/
+    - https://github.com/hugomn
+facebook:
+  app_id: 2266339926985215
+  publisher: 1294104205
 
 # Authors
 authors:
-  hugo:
+  Hugo Nogueira:
     name: Hugo Nogueira
     display_name: Hugo Nogueira
     gravatar: 86d69b8300d46636769c0bf2c133796d

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Como desenvolver componentes reutilizáveis utilizando Babel and RollupJS"
-author: hugo
+author: Hugo Nogueira
 categories: [ javascript ]
 image: assets/images/posts/20181010.jpg
 featured: true

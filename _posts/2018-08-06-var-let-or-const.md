@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "var, let or const?"
-author: hugo
+author: Hugo Nogueira
 categories: [ javascript ]
 image: assets/images/posts/20180806.gif
 featured: true

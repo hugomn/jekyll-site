@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Declaração de missão pessoal"
-author: hugo
+author: Hugo Nogueira
 categories: [ personal ]
 image: assets/images/posts/20180801.jpg
 featured: false
